@@ -36,6 +36,6 @@ then excute
     $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch ## this lauches the control to move the Robot 
 
 Done now you can enjoy your Turtlebot3 Simulation 
-[![Simulation](https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/Turtlebot3%20Simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")](http://https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/Turtlebot3%20Simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")
+[![Simulation](https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/TurtleBot3-simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")](https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/TurtleBot3-simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")
 *Written by Malik Ibrahim *
 
