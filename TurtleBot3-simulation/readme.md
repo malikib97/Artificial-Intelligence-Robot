@@ -30,7 +30,7 @@ do not forget to `source  devel/setup.bash`
 
 then excute
 
-
+1 $ export TURTLEBOT3_MODEL=burger
 
     $ roslaunch turtlebot3_fake turtlebot3_fake.launch ##This launches Rviz to start simulation
     $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch ## this lauches the control to move the Robot execute in a new terminal 
@@ -38,4 +38,3 @@ then excute
 Done now you can enjoy your Turtlebot3 Simulation 
 [![Simulation](https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/TurtleBot3-simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")](https://raw.githubusercontent.com/malikib97/Artificial-Intelligence-Robot/master/TurtleBot3-simulation/Screenshot%20from%202020-07-04%2015-39-30.png "Simulation")
 *Written by Malik Ibrahim *
-
